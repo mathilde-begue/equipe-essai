@@ -1,6 +1,7 @@
     # Notre équipe
 
 Un ticket, une branche
+Devise : on cherche d'abord 
 
 Amoileole - Romain (amoileoleromainpro@gmail.com)  
 Ce que j'aime dans le code:
