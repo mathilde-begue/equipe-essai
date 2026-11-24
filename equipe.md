@@ -1,9 +1,9 @@
     # Notre équipe
 
-Devise a definir
+Un ticket, une branche
 
 Amoileole - Romain (amoileoleromainpro@gmail.com)  
-Ce que j'aime dans le code:  
+Ce que j'aime dans le code:
 
 J'aime comprendre les programmes.  
 J'aime aussi creer des programmes.
