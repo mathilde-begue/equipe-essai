@@ -1,6 +1,6 @@
     # Notre équipe
 
-Devise a definir
+Devise : on cherche d'abord 
 
 Amoileole - Romain (amoileoleromainpro@gmail.com)  
 Ce que j'aime dans le code:  
